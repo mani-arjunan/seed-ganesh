@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+E-commerce store UI using React and gatsby
 <!--
 **seed-ganesh/seed-ganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
